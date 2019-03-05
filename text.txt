@@ -2,3 +2,4 @@ This is text!
 This is more text!
 This is even more text!
 This is more text while deleting the image.
+Now I'm adding a video.
