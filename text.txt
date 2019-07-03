@@ -4,3 +4,4 @@ This is even more text!
 This is more text while deleting the image.
 Now I'm adding a video.
 Now I'm deleting the video.
+What happens when I run BFG with an open pull request?
